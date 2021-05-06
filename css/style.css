@@ -509,6 +509,7 @@ img {
   margin-left: auto;
 }
 .footer-form__offer {
+  display: block;
   color: var(--title-text-color);
   font-weight: 700;
   line-height: 1.14;
