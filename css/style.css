@@ -508,7 +508,7 @@ img {
   display: block;
   margin-left: auto;
 }
-.footer-proposal {
+.footer-form__offer {
   color: var(--title-text-color);
   font-weight: 700;
   line-height: 1.14;
